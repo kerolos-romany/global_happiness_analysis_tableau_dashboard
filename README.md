@@ -97,5 +97,16 @@ The project uses **multiple real-world datasets**:
 
 ---
 
-## 📂 Repository Structure
+🚀 How to Use
 
+1. Download the `.twbx` Tableau file
+2. Open it using **Tableau Desktop**
+3. Interact with filters, parameters, and dashboards
+4. Explore happiness trends and insights dynamically
+
+---
+
+👤 Author
+
+**Kerolos Romany**  
+Data Analytics | BI | Data Engineering  
